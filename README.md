@@ -12,6 +12,8 @@ Do Not Use This Tool To Commit Crime, Because There Are Rules, If You Commit Cri
 
 [!] pip install requests
 
+[!] pip install colorama
+
 [!] git clone https://github.com/ArmaYoga888/ToolsHack
 
 [!] cd ToolsHack
